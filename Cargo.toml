@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+libspa = "0.8.0"
 pipewire = "0.8.0"
 symphonia = "0.5.4"
 thiserror = "2.0.11"
